@@ -1,2 +1,2 @@
-# Python
-Web scraping/ ecommerce website
+# Ecommerce Website Scraper
+Web scraping/ ecommerce websites
